@@ -1,6 +1,6 @@
 # Calendar
-[A practice project on Codecademy.]
-A basic calendar that the user will be able to interact with from the command line. 
+A practice project on Codecademy.
+Building a basic calendar that the user will be able to interact with from the command line. 
 
 The user should be able to choose to:  
 - View the calendar 
